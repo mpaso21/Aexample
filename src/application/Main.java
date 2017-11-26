@@ -11,7 +11,7 @@ public class Main extends Application{
 	public static void main(String[] args) {
 		launch(args);
 	}
-
+//ciao questo è il mio pogetto
 	@Override
 	public void start(Stage primaryStage) throws Exception {
 		new ExampleGameMoney(primaryStage);
